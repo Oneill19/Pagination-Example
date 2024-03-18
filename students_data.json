@@ -1,0 +1,752 @@
+[
+    {
+        "id": 1,
+        "name": "Katrina Deleon",
+        "email": "kinglori@bass-mcgee.com",
+        "date_of_birth": "2002-09-06",
+        "address": {
+            "street": "82888 Kimberly Mission",
+            "city": "Alishastad",
+            "state": "Arizona",
+            "zipcode": "16341"
+        },
+        "phone_number": "130.055.3678",
+        "major": "Computer Science",
+        "gpa": 2.92
+    },
+    {
+        "id": 2,
+        "name": "Christopher Richards",
+        "email": "hhebert@gmail.com",
+        "date_of_birth": "2002-11-26",
+        "address": {
+            "street": "2971 Cook Curve",
+            "city": "Stonetown",
+            "state": "Colorado",
+            "zipcode": "06585"
+        },
+        "phone_number": "001-905-617-8860x256",
+        "major": "History",
+        "gpa": 2.62
+    },
+    {
+        "id": 3,
+        "name": "Jill Lopez",
+        "email": "michael81@gmail.com",
+        "date_of_birth": "2002-04-30",
+        "address": {
+            "street": "29627 Lee Cove",
+            "city": "Port Christopher",
+            "state": "Washington",
+            "zipcode": "12637"
+        },
+        "phone_number": "001-445-504-8645x159",
+        "major": "Biology",
+        "gpa": 2.93
+    },
+    {
+        "id": 4,
+        "name": "Theresa Snyder",
+        "email": "bellgabriel@hall-garcia.com",
+        "date_of_birth": "2001-10-30",
+        "address": {
+            "street": "0060 Cantrell Fall Apt. 171",
+            "city": "Williamville",
+            "state": "South Dakota",
+            "zipcode": "51976"
+        },
+        "phone_number": "189-304-0775",
+        "major": "Mathematics",
+        "gpa": 2.94
+    },
+    {
+        "id": 5,
+        "name": "John Martin",
+        "email": "paulhopkins@white.com",
+        "date_of_birth": "2003-07-13",
+        "address": {
+            "street": "855 David Ramp",
+            "city": "Lake Tracy",
+            "state": "Nevada",
+            "zipcode": "81000"
+        },
+        "phone_number": "606.263.7305x02160",
+        "major": "Chemistry",
+        "gpa": 3.01
+    },
+    {
+        "id": 6,
+        "name": "Darren Allen",
+        "email": "stephen96@hotmail.com",
+        "date_of_birth": "2002-03-25",
+        "address": {
+            "street": "8914 Williams Locks Apt. 540",
+            "city": "New Steven",
+            "state": "Oregon",
+            "zipcode": "38569"
+        },
+        "phone_number": "+1-999-423-4534",
+        "major": "Chemistry",
+        "gpa": 3.69
+    },
+    {
+        "id": 7,
+        "name": "Logan Fox",
+        "email": "williamsontiffany@yahoo.com",
+        "date_of_birth": "2005-07-28",
+        "address": {
+            "street": "8466 Stewart Walks Apt. 226",
+            "city": "North Clayton",
+            "state": "Oklahoma",
+            "zipcode": "67189"
+        },
+        "phone_number": "+1-238-096-7660",
+        "major": "Computer Science",
+        "gpa": 3.5
+    },
+    {
+        "id": 8,
+        "name": "Matthew Anderson",
+        "email": "samuelmoore@hotmail.com",
+        "date_of_birth": "2003-11-22",
+        "address": {
+            "street": "2169 Wagner Inlet Suite 897",
+            "city": "Haleyview",
+            "state": "Minnesota",
+            "zipcode": "46457"
+        },
+        "phone_number": "274-259-7970x47194",
+        "major": "Physics",
+        "gpa": 2.36
+    },
+    {
+        "id": 9,
+        "name": "Sean Baker",
+        "email": "dominicscott@burnett-kelly.com",
+        "date_of_birth": "2004-06-14",
+        "address": {
+            "street": "55337 Smith Union",
+            "city": "North Shannon",
+            "state": "Nevada",
+            "zipcode": "53137"
+        },
+        "phone_number": "(588)899-9206x09492",
+        "major": "Biology",
+        "gpa": 2.62
+    },
+    {
+        "id": 10,
+        "name": "Grace Hamilton",
+        "email": "gonzaleskatherine@walls.com",
+        "date_of_birth": "2003-12-13",
+        "address": {
+            "street": "7896 James Wall",
+            "city": "Torresmouth",
+            "state": "Michigan",
+            "zipcode": "08923"
+        },
+        "phone_number": "212.437.9929",
+        "major": "Computer Science",
+        "gpa": 2.32
+    },
+    {
+        "id": 11,
+        "name": "Tara Brooks PhD",
+        "email": "mclark@yahoo.com",
+        "date_of_birth": "2002-09-08",
+        "address": {
+            "street": "9656 Jensen Isle",
+            "city": "Hurstfurt",
+            "state": "Connecticut",
+            "zipcode": "04544"
+        },
+        "phone_number": "407.077.6848",
+        "major": "English",
+        "gpa": 2.82
+    },
+    {
+        "id": 12,
+        "name": "Stacey Williams",
+        "email": "martinezwilliam@yahoo.com",
+        "date_of_birth": "2003-06-17",
+        "address": {
+            "street": "1339 Jeremy Gateway Apt. 191",
+            "city": "Robertmouth",
+            "state": "Georgia",
+            "zipcode": "26968"
+        },
+        "phone_number": "+1-487-256-4813x0241",
+        "major": "Chemistry",
+        "gpa": 2.76
+    },
+    {
+        "id": 13,
+        "name": "Jeffrey Rodriguez",
+        "email": "leslie00@jones.com",
+        "date_of_birth": "2004-10-06",
+        "address": {
+            "street": "616 Lauren Junctions",
+            "city": "North Jack",
+            "state": "Ohio",
+            "zipcode": "89712"
+        },
+        "phone_number": "(917)702-8705x7998",
+        "major": "Biology",
+        "gpa": 2.28
+    },
+    {
+        "id": 14,
+        "name": "Haley Jimenez",
+        "email": "colemanlindsey@hotmail.com",
+        "date_of_birth": "2004-12-06",
+        "address": {
+            "street": "4357 Jody Court",
+            "city": "Hernandezberg",
+            "state": "Washington",
+            "zipcode": "44091"
+        },
+        "phone_number": "169-283-0682",
+        "major": "Biology",
+        "gpa": 2.94
+    },
+    {
+        "id": 15,
+        "name": "Lisa Jones",
+        "email": "troy75@yahoo.com",
+        "date_of_birth": "2006-02-10",
+        "address": {
+            "street": "07043 Pope Pass",
+            "city": "Ericmouth",
+            "state": "Ohio",
+            "zipcode": "59597"
+        },
+        "phone_number": "7677697603",
+        "major": "Mathematics",
+        "gpa": 2.27
+    },
+    {
+        "id": 16,
+        "name": "Mr. Douglas Richard",
+        "email": "tstafford@howard.com",
+        "date_of_birth": "2005-06-03",
+        "address": {
+            "street": "19510 Frank Mountains",
+            "city": "South Shane",
+            "state": "Montana",
+            "zipcode": "84153"
+        },
+        "phone_number": "425-077-8943x03950",
+        "major": "Computer Science",
+        "gpa": 2.24
+    },
+    {
+        "id": 17,
+        "name": "Eddie Martinez",
+        "email": "ecook@yahoo.com",
+        "date_of_birth": "2005-04-18",
+        "address": {
+            "street": "707 Ford Park",
+            "city": "Julieside",
+            "state": "North Carolina",
+            "zipcode": "18889"
+        },
+        "phone_number": "001-520-627-7343x28186",
+        "major": "Mathematics",
+        "gpa": 2.73
+    },
+    {
+        "id": 18,
+        "name": "Justin Campbell",
+        "email": "joseph48@gmail.com",
+        "date_of_birth": "2003-03-24",
+        "address": {
+            "street": "8201 Stephanie Lakes Suite 120",
+            "city": "Ramirezburgh",
+            "state": "Kentucky",
+            "zipcode": "08326"
+        },
+        "phone_number": "001-497-350-3392",
+        "major": "Computer Science",
+        "gpa": 2.08
+    },
+    {
+        "id": 19,
+        "name": "Ann Washington",
+        "email": "croberts@harris.com",
+        "date_of_birth": "2006-01-02",
+        "address": {
+            "street": "546 Gilmore Dam",
+            "city": "South Davidmouth",
+            "state": "Wisconsin",
+            "zipcode": "91108"
+        },
+        "phone_number": "+1-075-238-8944x31869",
+        "major": "English",
+        "gpa": 2.8
+    },
+    {
+        "id": 20,
+        "name": "Mrs. Jodi Koch",
+        "email": "moraleskimberly@brown.com",
+        "date_of_birth": "2004-04-23",
+        "address": {
+            "street": "47116 Adam Streets Apt. 655",
+            "city": "Lake Michael",
+            "state": "California",
+            "zipcode": "64706"
+        },
+        "phone_number": "(871)104-6522x129",
+        "major": "History",
+        "gpa": 3.33
+    },
+    {
+        "id": 21,
+        "name": "Sharon Greer",
+        "email": "droberts@yahoo.com",
+        "date_of_birth": "2005-02-20",
+        "address": {
+            "street": "7953 Valerie View",
+            "city": "Erictown",
+            "state": "Nevada",
+            "zipcode": "64108"
+        },
+        "phone_number": "001-135-486-5578x6071",
+        "major": "English",
+        "gpa": 2.5
+    },
+    {
+        "id": 22,
+        "name": "Jonathan Larson",
+        "email": "mcdanielshannon@joseph.com",
+        "date_of_birth": "2002-12-29",
+        "address": {
+            "street": "8105 Victoria Throughway",
+            "city": "West Nathanton",
+            "state": "Vermont",
+            "zipcode": "50051"
+        },
+        "phone_number": "(879)833-1700x39647",
+        "major": "Mathematics",
+        "gpa": 2.13
+    },
+    {
+        "id": 23,
+        "name": "Anne Williams",
+        "email": "cindyclark@hotmail.com",
+        "date_of_birth": "2005-04-17",
+        "address": {
+            "street": "087 Isaiah Tunnel",
+            "city": "Walterberg",
+            "state": "Utah",
+            "zipcode": "70735"
+        },
+        "phone_number": "(972)920-4633x81902",
+        "major": "Physics",
+        "gpa": 3.0
+    },
+    {
+        "id": 24,
+        "name": "Jake Campbell",
+        "email": "megan07@gmail.com",
+        "date_of_birth": "2002-06-17",
+        "address": {
+            "street": "2324 Brooke Expressway Suite 682",
+            "city": "Williamsfurt",
+            "state": "North Dakota",
+            "zipcode": "16259"
+        },
+        "phone_number": "118.572.5364x6362",
+        "major": "Physics",
+        "gpa": 3.76
+    },
+    {
+        "id": 25,
+        "name": "Kevin Hamilton",
+        "email": "rlopez@hotmail.com",
+        "date_of_birth": "2006-01-09",
+        "address": {
+            "street": "20834 Kim Passage",
+            "city": "West Jonberg",
+            "state": "Hawaii",
+            "zipcode": "97511"
+        },
+        "phone_number": "158.824.9201x4139",
+        "major": "Chemistry",
+        "gpa": 2.02
+    },
+    {
+        "id": 26,
+        "name": "Gail Stafford",
+        "email": "ucarroll@gmail.com",
+        "date_of_birth": "2002-08-21",
+        "address": {
+            "street": "0439 Rasmussen Hills Apt. 451",
+            "city": "Philiphaven",
+            "state": "California",
+            "zipcode": "73822"
+        },
+        "phone_number": "484-203-2804x384",
+        "major": "Chemistry",
+        "gpa": 2.57
+    },
+    {
+        "id": 27,
+        "name": "Xavier Cruz",
+        "email": "mhorn@hotmail.com",
+        "date_of_birth": "2005-10-06",
+        "address": {
+            "street": "945 Lori Viaduct",
+            "city": "Brownberg",
+            "state": "Washington",
+            "zipcode": "93639"
+        },
+        "phone_number": "001-083-457-3867x92394",
+        "major": "Computer Science",
+        "gpa": 2.52
+    },
+    {
+        "id": 28,
+        "name": "Heather Price",
+        "email": "tammietaylor@morse-armstrong.com",
+        "date_of_birth": "2005-04-08",
+        "address": {
+            "street": "4919 Todd Brook Apt. 285",
+            "city": "Jacksonport",
+            "state": "Connecticut",
+            "zipcode": "05715"
+        },
+        "phone_number": "611.821.3111x0126",
+        "major": "Biology",
+        "gpa": 3.32
+    },
+    {
+        "id": 29,
+        "name": "Brandon Williams",
+        "email": "hillnicholas@yahoo.com",
+        "date_of_birth": "2005-05-21",
+        "address": {
+            "street": "804 Henderson Port Apt. 069",
+            "city": "New Michaelfort",
+            "state": "Texas",
+            "zipcode": "32044"
+        },
+        "phone_number": "433-510-6006",
+        "major": "Computer Science",
+        "gpa": 3.47
+    },
+    {
+        "id": 30,
+        "name": "Ryan Ayers",
+        "email": "jsteele@williams.org",
+        "date_of_birth": "2005-07-31",
+        "address": {
+            "street": "1047 Norton Fork",
+            "city": "East Jessica",
+            "state": "Arkansas",
+            "zipcode": "20735"
+        },
+        "phone_number": "865.238.0291x01087",
+        "major": "Biology",
+        "gpa": 3.68
+    },
+    {
+        "id": 31,
+        "name": "Oscar Ryan",
+        "email": "davidkeller@gmail.com",
+        "date_of_birth": "2005-06-19",
+        "address": {
+            "street": "0782 Tyler Plain",
+            "city": "Brandonfurt",
+            "state": "Wisconsin",
+            "zipcode": "10528"
+        },
+        "phone_number": "7474182606",
+        "major": "English",
+        "gpa": 3.26
+    },
+    {
+        "id": 32,
+        "name": "Curtis Harrison",
+        "email": "lscott@hotmail.com",
+        "date_of_birth": "2004-07-24",
+        "address": {
+            "street": "98618 Jordan Loaf",
+            "city": "East Lisahaven",
+            "state": "Utah",
+            "zipcode": "46933"
+        },
+        "phone_number": "359.746.5402x81673",
+        "major": "History",
+        "gpa": 3.39
+    },
+    {
+        "id": 33,
+        "name": "Jennifer Taylor",
+        "email": "jill16@hotmail.com",
+        "date_of_birth": "2003-07-09",
+        "address": {
+            "street": "2528 Stephen Pine",
+            "city": "Marymouth",
+            "state": "Delaware",
+            "zipcode": "67509"
+        },
+        "phone_number": "404-458-3011x9839",
+        "major": "History",
+        "gpa": 3.18
+    },
+    {
+        "id": 34,
+        "name": "Alexander Russell",
+        "email": "ramirezkatie@villarreal.info",
+        "date_of_birth": "2003-06-01",
+        "address": {
+            "street": "8555 Gordon Greens",
+            "city": "Fitzgeraldville",
+            "state": "Hawaii",
+            "zipcode": "11193"
+        },
+        "phone_number": "083-822-2855",
+        "major": "Biology",
+        "gpa": 3.27
+    },
+    {
+        "id": 35,
+        "name": "Barbara Hardy",
+        "email": "nancygarrett@gmail.com",
+        "date_of_birth": "2002-08-02",
+        "address": {
+            "street": "722 Christina Crescent",
+            "city": "Kingville",
+            "state": "Indiana",
+            "zipcode": "12695"
+        },
+        "phone_number": "877-357-6874x102",
+        "major": "English",
+        "gpa": 3.21
+    },
+    {
+        "id": 36,
+        "name": "Cathy Sanchez",
+        "email": "gross@walter.biz",
+        "date_of_birth": "2005-03-21",
+        "address": {
+            "street": "74448 Garner Skyway Apt. 844",
+            "city": "Brockmouth",
+            "state": "Illinois",
+            "zipcode": "76058"
+        },
+        "phone_number": "572.118.1931x90452",
+        "major": "Mathematics",
+        "gpa": 2.94
+    },
+    {
+        "id": 37,
+        "name": "Jody Burnett",
+        "email": "matthewkeith@garcia-jackson.com",
+        "date_of_birth": "2002-04-24",
+        "address": {
+            "street": "691 Corey Brooks Apt. 507",
+            "city": "Donnaborough",
+            "state": "Ohio",
+            "zipcode": "97671"
+        },
+        "phone_number": "532.200.1495",
+        "major": "Computer Science",
+        "gpa": 2.9
+    },
+    {
+        "id": 38,
+        "name": "Zachary Barton",
+        "email": "fieldsjeffrey@hotmail.com",
+        "date_of_birth": "2004-12-05",
+        "address": {
+            "street": "7376 Nichols Fields",
+            "city": "Lesliechester",
+            "state": "Massachusetts",
+            "zipcode": "10004"
+        },
+        "phone_number": "733-112-8287x46631",
+        "major": "Mathematics",
+        "gpa": 2.33
+    },
+    {
+        "id": 39,
+        "name": "Melissa Nelson",
+        "email": "progers@gaines-harper.net",
+        "date_of_birth": "2001-04-15",
+        "address": {
+            "street": "7508 Stephen Lock Apt. 782",
+            "city": "North Ryanhaven",
+            "state": "New Hampshire",
+            "zipcode": "26415"
+        },
+        "phone_number": "+1-835-704-1255x008",
+        "major": "English",
+        "gpa": 3.58
+    },
+    {
+        "id": 40,
+        "name": "Michelle Ray DVM",
+        "email": "ppugh@edwards.com",
+        "date_of_birth": "2002-05-20",
+        "address": {
+            "street": "360 Briana Field Suite 298",
+            "city": "New Laurenport",
+            "state": "Colorado",
+            "zipcode": "52558"
+        },
+        "phone_number": "584-064-5573x13944",
+        "major": "Biology",
+        "gpa": 3.59
+    },
+    {
+        "id": 41,
+        "name": "Christopher Lee",
+        "email": "elliottdavid@yahoo.com",
+        "date_of_birth": "2002-03-06",
+        "address": {
+            "street": "1511 Higgins Throughway Apt. 245",
+            "city": "Reedmouth",
+            "state": "Kansas",
+            "zipcode": "69782"
+        },
+        "phone_number": "+1-037-775-1827x7551",
+        "major": "Computer Science",
+        "gpa": 2.32
+    },
+    {
+        "id": 42,
+        "name": "Christopher Walters",
+        "email": "josephhernandez@ruiz-thompson.com",
+        "date_of_birth": "2005-06-06",
+        "address": {
+            "street": "99135 Donald Village Apt. 914",
+            "city": "West Jacquelineburgh",
+            "state": "Missouri",
+            "zipcode": "96962"
+        },
+        "phone_number": "310.125.2557x52260",
+        "major": "History",
+        "gpa": 2.08
+    },
+    {
+        "id": 43,
+        "name": "Marcus Avery",
+        "email": "xadams@hotmail.com",
+        "date_of_birth": "2005-11-11",
+        "address": {
+            "street": "49633 Dorsey Lodge",
+            "city": "Johnsonhaven",
+            "state": "Montana",
+            "zipcode": "33762"
+        },
+        "phone_number": "(856)411-9598x0765",
+        "major": "Biology",
+        "gpa": 3.65
+    },
+    {
+        "id": 44,
+        "name": "Harry Marshall",
+        "email": "evansmelinda@davis-ellis.biz",
+        "date_of_birth": "2005-10-01",
+        "address": {
+            "street": "61072 Melanie Shoals",
+            "city": "South Christianborough",
+            "state": "Rhode Island",
+            "zipcode": "34499"
+        },
+        "phone_number": "211.924.4119",
+        "major": "Chemistry",
+        "gpa": 3.17
+    },
+    {
+        "id": 45,
+        "name": "Donald Hill",
+        "email": "sotodaniel@hotmail.com",
+        "date_of_birth": "2003-02-12",
+        "address": {
+            "street": "03175 Wells Port",
+            "city": "North Katherineview",
+            "state": "Wyoming",
+            "zipcode": "03121"
+        },
+        "phone_number": "(559)019-0961x147",
+        "major": "History",
+        "gpa": 3.05
+    },
+    {
+        "id": 46,
+        "name": "Lauren Parker",
+        "email": "jessicasims@king.org",
+        "date_of_birth": "2005-12-22",
+        "address": {
+            "street": "14959 Kayla Rue Apt. 632",
+            "city": "Michaelchester",
+            "state": "California",
+            "zipcode": "30478"
+        },
+        "phone_number": "(968)602-2440x064",
+        "major": "English",
+        "gpa": 2.71
+    },
+    {
+        "id": 47,
+        "name": "Thomas Romero",
+        "email": "zhughes@yahoo.com",
+        "date_of_birth": "2003-09-17",
+        "address": {
+            "street": "32903 William Green Apt. 538",
+            "city": "South Ericburgh",
+            "state": "New York",
+            "zipcode": "47185"
+        },
+        "phone_number": "057.789.3264",
+        "major": "Biology",
+        "gpa": 2.56
+    },
+    {
+        "id": 48,
+        "name": "Michael Berry",
+        "email": "lblack@brown.biz",
+        "date_of_birth": "2005-07-19",
+        "address": {
+            "street": "2476 Timothy Pine Suite 373",
+            "city": "Lambertfurt",
+            "state": "North Carolina",
+            "zipcode": "60669"
+        },
+        "phone_number": "903.470.6639x79474",
+        "major": "Physics",
+        "gpa": 2.14
+    },
+    {
+        "id": 49,
+        "name": "Ashley Rubio",
+        "email": "cynthiariley@shepard-brown.com",
+        "date_of_birth": "2002-08-18",
+        "address": {
+            "street": "071 Justin Forest Apt. 313",
+            "city": "Port Jay",
+            "state": "Iowa",
+            "zipcode": "43346"
+        },
+        "phone_number": "457-377-4681x21581",
+        "major": "Chemistry",
+        "gpa": 3.71
+    },
+    {
+        "id": 50,
+        "name": "Louis Simon",
+        "email": "nicholas21@yahoo.com",
+        "date_of_birth": "2002-08-10",
+        "address": {
+            "street": "146 Suzanne Inlet",
+            "city": "North Ashley",
+            "state": "South Dakota",
+            "zipcode": "28499"
+        },
+        "phone_number": "325.223.4444",
+        "major": "History",
+        "gpa": 3.7
+    }
+]
