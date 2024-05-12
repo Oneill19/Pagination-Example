@@ -1,7 +1,6 @@
 {
-  "name": "nestjs-starter-kit",
+  "name": "pagination-example-api",
   "version": "0.0.1",
-  "description": "NestJS starter kit template with MongoDB support",
   "author": "Oneill19",
   "private": true,
   "license": "MIT",
